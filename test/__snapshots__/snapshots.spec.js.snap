@@ -117,7 +117,7 @@ exports[`dateFormat set to true 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -431,7 +431,7 @@ exports[`dateFormat set to true 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -462,7 +462,7 @@ exports[`input input: set to false 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -776,7 +776,7 @@ exports[`input input: set to false 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -815,7 +815,7 @@ exports[`input input: set to true 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -1129,7 +1129,7 @@ exports[`input input: set to true 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -1168,7 +1168,7 @@ exports[`inputProps with className specified 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -1482,7 +1482,7 @@ exports[`inputProps with className specified 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -1522,7 +1522,7 @@ exports[`inputProps with disabled specified 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -1836,7 +1836,7 @@ exports[`inputProps with disabled specified 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -1876,7 +1876,7 @@ exports[`inputProps with name specified 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -2190,7 +2190,7 @@ exports[`inputProps with name specified 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -2230,7 +2230,7 @@ exports[`inputProps with placeholder specified 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -2544,7 +2544,7 @@ exports[`inputProps with placeholder specified 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -2584,7 +2584,7 @@ exports[`inputProps with required specified 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -2898,7 +2898,7 @@ exports[`inputProps with required specified 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -2937,7 +2937,7 @@ exports[`open set to false 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -3251,7 +3251,7 @@ exports[`open set to false 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -3290,7 +3290,7 @@ exports[`open set to true 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -3604,7 +3604,7 @@ exports[`open set to true 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -3643,7 +3643,7 @@ exports[`test className: set to arbitraty value 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -3957,7 +3957,7 @@ exports[`test className: set to arbitraty value 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -3996,7 +3996,7 @@ exports[`test defaultValue: set to arbitrary value 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -4310,7 +4310,7 @@ exports[`test defaultValue: set to arbitrary value 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:36 AM
             </td>
@@ -4349,7 +4349,7 @@ exports[`test everything default: renders correctly 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -4663,7 +4663,7 @@ exports[`test everything default: renders correctly 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -4702,7 +4702,7 @@ exports[`test isValidDate: only valid if after yesterday 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -4991,7 +4991,7 @@ exports[`test isValidDate: only valid if after yesterday 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -5030,7 +5030,7 @@ exports[`test renderDay: specified 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -5344,7 +5344,7 @@ exports[`test renderDay: specified 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -5383,7 +5383,7 @@ exports[`test renderMonth: specified 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -5697,7 +5697,7 @@ exports[`test renderMonth: specified 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -5736,7 +5736,7 @@ exports[`test renderYear: specified 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -6050,7 +6050,7 @@ exports[`test renderYear: specified 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -6089,7 +6089,7 @@ exports[`test value: set to arbitrary value 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -6403,7 +6403,7 @@ exports[`test value: set to arbitrary value 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:36 AM
             </td>
@@ -6442,7 +6442,7 @@ exports[`timeFormat set to false 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -6785,7 +6785,7 @@ exports[`timeFormat set to true 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -7099,7 +7099,7 @@ exports[`timeFormat set to true 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -7138,7 +7138,7 @@ exports[`viewMode set to days 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={5}
+              colspan={5}
               data-value={11}
               onClick={[Function]}>
               December 2016
@@ -7452,7 +7452,7 @@ exports[`viewMode set to days 1`] = `
           <tr>
             <td
               className="rdtTimeToggle"
-              colSpan={7}
+              colspan={7}
               onClick={[Function]}>
               12:00 AM
             </td>
@@ -7491,7 +7491,7 @@ exports[`viewMode set to months 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={2}
+              colspan={2}
               data-value={2016}
               onClick={[Function]}>
               2016
@@ -7613,7 +7613,7 @@ exports[`viewMode set to time 1`] = `
           <tr>
             <th
               className="rdtSwitch"
-              colSpan={4}
+              colspan={4}
               onClick={[Function]}>
               12/01/2016
             </th>
@@ -7722,7 +7722,7 @@ exports[`viewMode set to years 1`] = `
             </th>
             <th
               className="rdtSwitch"
-              colSpan={2}
+              colspan={2}
               onClick={[Function]}>
               2010-2019
             </th>

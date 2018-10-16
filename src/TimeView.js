@@ -28,7 +28,7 @@ var DateTimePickerTime = onClickOutside( createClass({
 		}
 
 		var hours = date.format( 'H' );
-		
+
 		var daypart = false;
 		if ( this.state !== null && this.props.timeFormat.toLowerCase().indexOf( ' a' ) !== -1 ) {
 			if ( this.props.timeFormat.indexOf( ' A' ) !== -1 ) {
@@ -157,7 +157,7 @@ var DateTimePickerTime = onClickOutside( createClass({
 
 		var date = this.props.selectedDate || this.props.viewDate;
 		return React.createElement('thead', { key: 'h' }, React.createElement('tr', {},
-			React.createElement('th', { className: 'rdtSwitch', colSpan: 4, onClick: this.props.showView( 'days' ) }, date.format( this.props.dateFormat ) )
+			React.createElement('th', { className: 'rdtSwitch', colspan: 4, onClick: this.props.showView( 'days' ) }, date.format( this.props.dateFormat ) )
 		));
 	},
 
