@@ -1,3 +1,4 @@
+/* eslint-disable */
 'use strict';
 
 var React = require('react'),
@@ -235,3 +236,4 @@ var DateTimePickerTime = onClickOutside( createClass({
 }));
 
 module.exports = DateTimePickerTime;
+/* eslint-enable */

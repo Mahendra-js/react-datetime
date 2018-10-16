@@ -1,3 +1,4 @@
+/* eslint-disable */
 'use strict';
 
 var React = require('react'),
@@ -105,3 +106,4 @@ function capitalize( str ) {
 }
 
 module.exports = DateTimePickerMonths;
+/* eslint-enable */

@@ -1,3 +1,4 @@
+/* eslint-disable */
 'use strict';
 
 var React = require('react'),
@@ -103,3 +104,4 @@ var DateTimePickerYears = onClickOutside( createClass({
 }));
 
 module.exports = DateTimePickerYears;
+/* eslint-enable */

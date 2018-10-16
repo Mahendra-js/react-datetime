@@ -1,3 +1,4 @@
+/* eslint-disable */
 'use strict';
 
 var React = require('react'),
@@ -22,3 +23,4 @@ var CalendarContainer = createClass({
 });
 
 module.exports = CalendarContainer;
+/* eslint-enable */
