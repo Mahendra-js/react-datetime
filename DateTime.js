@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 'use strict';
 
 var assign = require('object-assign'),
@@ -479,3 +481,4 @@ Datetime.defaultProps = {
 Datetime.moment = moment;
 
 module.exports = Datetime;
+/* eslint-enable */
